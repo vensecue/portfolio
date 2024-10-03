@@ -164,7 +164,7 @@ const testimonials = [
       "Resume",
     name: "/resume",
     designation: "my history",
-    company: "https://www.canva.com/design/DAFr_gUhh6I/hky3J28iWw1tw-q4NuVymw/view?utm_content=DAFr_gUhh6I&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink",
+    company: "https://www.canva.com/design/DAFr_gUhh6I/kc5T8qzoZM1k50K51IE5Yw/view?utm_content=DAFr_gUhh6I&utm_campaign=designshare&utm_medium=link&utm_source=editor",
   },
 ];
 
